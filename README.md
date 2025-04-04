@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
-👋 About Me<br>Hi, I'm Nidhi Dangi, a passionate Computer Science student currently pursuing my B.Tech. I enjoy building full-stack web applications and bringing creative ideas to life using technologies like Node.js, Express, MongoDB, EJS, and React + Flask for dynamic projects.<br><br>🚀 Some of the projects I’ve worked on include:<br><br>🏥 Hospital Food Delivery Management System<br>💊 Medicine Recommendation Website (React + Flask + ML)<br><br>🌱 Currently learning and improving my skills in backend systems, frontend design, and AI integration.<br><br>📫 Feel free to reach out or connect:<br><br>✉️ Email: nidhidangi62@gmail.com<br><br>🔗 LinkedIn: linkedin.com/in/bpl-nidhi-dangi<br><br>🧑‍💻 GitHub: github.com/NidhiDangi08<br><br><br>
+<br>Hi, I'm Nidhi Dangi, a passionate Computer Science student currently pursuing my B.Tech. I enjoy building full-stack web applications and bringing creative ideas to life using technologies like Node.js, Express, MongoDB, EJS, and React + Flask for dynamic projects.<br><br>🚀 Some of the projects I’ve worked on include:<br><br>🏥 Hospital Food Delivery Management System<br>💊 Medicine Recommendation Website (React + Flask + ML)<br><br>🌱 Currently learning and improving my skills in backend systems, frontend design, and AI integration.<br><br>📫 Feel free to reach out or connect:<br><br>✉️ Email: nidhidangi62@gmail.com<br><br>🔗 LinkedIn: linkedin.com/in/bpl-nidhi-dangi<br><br>🧑‍💻 GitHub: github.com/NidhiDangi08<br><br><br>
 
 
 ## 🌐 Socials:
